@@ -8,7 +8,7 @@ This repository serves as a central index of officially published R packages by 
 
 ### 🔹 snc  
 [![CRAN version](https://www.r-pkg.org/badges/version/snc)](https://cran.r-project.org/package=snc)  
-Structural Neighbor Consistency metrics, including **SNC₂**, a deterministic and model-free alternative to Cronbach’s alpha.
+Structural Neighbor Consistency metrics, including **SNC**, a deterministic and model-free alternative to Cronbach’s alpha.
 
 - 📄 CRAN: [https://cran.r-project.org/package=snc](https://cran.r-project.org/package=snc)  
 - 💻 GitHub: [https://github.com/TheotherDrWells/snc](https://github.com/TheotherDrWells/snc)
@@ -17,7 +17,7 @@ Structural Neighbor Consistency metrics, including **SNC₂**, a deterministic a
 
 ### 🔹 piiR  
 [![CRAN version](https://www.r-pkg.org/badges/version/piiR)](https://cran.r-project.org/package=piiR)  
-Implements the **Predictive Information Index (PII)** for evaluating alignment between constructed scores and outcomes, including `PII_r2`, `PII_rm`, and `PII_v`.
+Implements the **Predictive Information Index (PII)** for evaluating alignment between constructed scores and outcomes.
 
 - 📄 CRAN: [https://cran.r-project.org/package=piiR](https://cran.r-project.org/package=piiR)  
 - 💻 GitHub: [https://github.com/TheotherDrWells/piiR](https://github.com/TheotherDrWells/piiR)
